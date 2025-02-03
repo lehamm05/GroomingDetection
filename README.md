@@ -1,5 +1,5 @@
 # GroomingDetection
-Advancing Grooming Detection in Chat Logs: Comparing Traditional Methods and Large Language Models with a Focus on Predator Tone
+Advancing Grooming Detection in Chat Logs: Comparing Traditional Machine Learning and Large Language Models with a Focus on Predator Tone
 
 The implementations are based on the PAN12 dataset used for grooming detection. The traditional SVM machine learning is implemented and compared with an implementation of the newly released LLaMA 3.2 1B model by Meta. Additionally, a sentiment analysis with the DistilBERT model is done to test the SVM and LLama models' ability to detect grooming in different sentiments. 
 
