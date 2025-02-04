@@ -16,4 +16,4 @@ LinearSVM.ipynb and RbfSVM.ipynb contain implementations of SVMs that train and 
 
 LLaMA3_Sentiments.ipynb contains implementation of LLaMA 3.2 1B model which is fine-tuned to different sentiments.
 
-LLaMA3_PredatoryAuthorIdentification contains implementation of LLaMA 3.2 1B model that matches the PAN12 competition.
+LLaMA3_PredatoryAuthorIdentification.ipynb contains implementation of LLaMA 3.2 1B model that matches the PAN12 competition.
